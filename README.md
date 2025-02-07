@@ -3,16 +3,20 @@
 
 ## Studying
 - 🔭 I’m currently looking for a new job as Ruby on Rails Full-Stack developer.
-- 🌱 I’m learning Ruby, RoR, React, Redux, JavaScript, Bootstrap, SASS & Remote Pair Programming.
+- **Back-end:** Ruby, Rails , PostgreSQL, Sidekiq,
+- **Front-end:** React, Redux, JavaScript, HTML5, Haml, CSS, Bootstrap, TailwindCSS, SASS.
+- **Tools & Methods:** Git, GitHub, Heroku,TDD, Rspec, Minitest, ActionCable, Turbo, Stimulus, AppSigna, Redis.
+- **Professional:** Remote, Pair-Programming, Teamwork
+  
 ## Collaboration
-- 👯 I’m looking to collaborate on Algorithm Challenges & ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) Projects.
+- 👯 I’m looking to collaborate in a supportive team .
 ## Ask me about
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ## How to reach me?
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=polina.stamenova@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polina-stamenova-a60766112/).
 ## Fun facts
-- Diving.
-- Chemical engineer.
+- Free/Scuba diving, Kitesurfing, Hiking, Salsa & Bachata. Crafting, decorating & designing. 
+- Chemical process engineer.
 
  <h1 align="center">Languages and Tools:</h1>
 <p align="center">
