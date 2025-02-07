@@ -64,8 +64,9 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
   </a>
 
-
-
+  <a href="https://turbo.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/stimulus.svg" alt="stimulus" width="55" height="55"/>
+  </a>
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="55" height="55"/> 
   </a> 
