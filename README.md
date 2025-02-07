@@ -1,8 +1,8 @@
 
 ### Hi there 👋
-
-## Studying
 - 🔭 I’m currently looking for a new job as Ruby on Rails Full-Stack developer.
+
+## Tech stack
 - **Back-end:** Ruby, Rails , PostgreSQL, Sidekiq,
 - **Front-end:** React, Redux, JavaScript, HTML5, Haml, CSS, Bootstrap, TailwindCSS, SASS.
 - **Tools & Methods:** Git, GitHub, Heroku,TDD, Rspec, Minitest, ActionCable, Turbo, Stimulus, AppSigna, Redis.
