@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ## Studying
-- 🔭 I’m currently studying at ![](https://img.shields.io/badge/Microverse-blueviolet).
+- 🔭 I’m currently looking for a new job as Ruby on Rails Full-Stack developer.
 - 🌱 I’m learning Ruby, RoR, React, Redux, JavaScript, Bootstrap, SASS & Remote Pair Programming.
 ## Collaboration
 - 👯 I’m looking to collaborate on Algorithm Challenges & ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) Projects.
