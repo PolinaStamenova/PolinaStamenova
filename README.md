@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🔭 I’m currently looking for a new job as Ruby on Rails Full-Stack developer.
+🔭 I’m currently looking for a new job as Ruby on Rails Full-Stack developer.
 
 ## Tech stack
 - **Back-end:** Ruby, Rails , PostgreSQL, Sidekiq,
