@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>
   </a>
   <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://worldvectorlogo.com/logo/tailwind-css-2" alt="tailwind" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/withastro/docs/refs/heads/main/public/logos/tailwind.svg" alt="tailwind" width="55" height="55"/>
   </a>  
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
